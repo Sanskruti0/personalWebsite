@@ -1,0 +1,159 @@
+body{
+    background-color: rgb(44, 44, 44);}
+.divpage{
+        background-color: rgb(50, 50, 50);
+        margin: 20px;
+        border-radius: 30px;
+   
+        box-shadow: 0 0 30px 0;
+    }
+.header1{
+    background-color:rgb(35, 35, 35);
+    height: 80px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 5px ;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    padding-left: 70px;
+    gap: 60px;
+    align-items: center;
+}
+a:link{
+    font-family: rethink sans;
+    color: rgb(173, 173, 173);
+    text-decoration: none;
+}
+.linkedin:hover{
+    font-family: rethink sans;
+    color: rgb(228, 228, 228);
+}
+.linkedin{
+    font-family: rethink sans;
+    color: rgb(173, 173, 173);
+    text-decoration: none;
+}
+.github:hover{
+    font-family: rethink sans;
+    color: rgb(228, 228, 228);
+}
+.github{
+    font-family: rethink sans;
+    color: rgb(173, 173, 173);
+}
+.instagram:hover{
+    font-family: rethink sans;
+    color: rgb(228, 228, 228);
+}
+.instagram{
+    font-family: rethink sans;
+    color: rgb(173, 173, 173);
+}
+.twitter:hover{
+    font-family: rethink sans;
+    color: rgb(228, 228, 228);
+}
+.twitter{
+    font-family: rethink sans;
+    color: rgb(173, 173, 173);
+}
+.div1{
+    padding-top: 55px;
+    padding-left: 30px;
+    margin: 20px;
+    border-radius: 30px;
+    display: flex; 
+}
+.image{
+    display: inline-block;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.image-2{
+    display: inline-block;
+    padding-left: 240px;
+    padding-top: 60px;
+}
+.el--1{
+    position: absolute;
+    left: 925px;
+    top: 465px;
+    font-family: dm sans;
+    font-size: 18px;
+    color: rgb(173, 173, 173);
+    letter-spacing: 1px;
+}
+.content-1{
+    padding-top: 115px;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: rgb(173, 173, 173); 
+}
+h2{
+    font-size: 30px;
+    font-family: rethink sans;
+    text-transform: uppercase;
+    font-weight: Bold;
+    letter-spacing: 1.8px;
+}
+.About-me{
+    font-size: 15px;
+    font-family: rethink sans;
+    letter-spacing: 1px;
+}
+.content-2{
+    color: rgb(173, 173, 173); 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 200px;
+    margin: 70px;
+    padding-top: 30px;
+    font-family: rethink sans;
+}
+.internship,.volunteer,.project{
+    letter-spacing: 1px;
+}
+.more{
+    color: rgb(173, 173, 173);
+    font-family: rethink sans;
+    padding: 10px 0;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.more-content{
+    color: rgb(173, 173, 173);
+    font-family: rethink sans;
+    margin: 0 60px;
+    text-align: left;
+}
+.button{
+    border: 2px solid rgb(173, 173, 173);
+    background-color:rgb(50, 50, 50);
+    font-size: 15px;
+    font-family: rethink sans;
+    display: block;
+    margin: 20px auto;
+    margin-top: 60px;
+    transition: transform .2s;
+}
+.email{
+    color: rgb(173, 173, 173);
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+button:hover{
+    transform: scale(1.1);
+}
+footer{
+    text-align: center;
+}
+.copyright{
+    font-family: rethink sans;
+    font-size: 13px;
+    color: rgb(173, 173, 173);
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
